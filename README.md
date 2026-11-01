@@ -1,8 +1,8 @@
 ### 👋 Hi, I'm Ann P Mathew!
 
-**CSE Student | Aspiring Software Developer 💻**
-Exploring AI, Flutter & Emerging Technologies 🤖
-IEEE Student Branch Vice Chair | Flutter Intern
+**CSE Student | Aspiring Software Developer 💻** <br>
+Exploring AI, Flutter & Emerging Technologies 🤖 <br>
+IEEE Student Branch Vice Chair | Flutter Intern <br>
 Learning, Building & Creating Real-World Solutions 🚀
 
 ### 💻 Tech Stack
@@ -12,6 +12,7 @@ Learning, Building & Creating Real-World Solutions 🚀
 
 ### 📊 GitHub Stats
 ![Ann's GitHub stats](https://github-readme-stats.vercel.app/api?username=annpmathew21-debug&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annpmathew21-debug&layout=compact&theme=radical)
 
 ### 📫 Connect with me
